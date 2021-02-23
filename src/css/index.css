@@ -1,0 +1,24 @@
+.diceContainer{
+    height: 300px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.dice{
+    margin-top: 30px;
+    border: 2px solid black;
+    height: 50%;
+    width: 50%;
+    border-radius: 25%;
+    background-color: #F5F5DC;
+    box-shadow: 15px 10px 15px black;
+}
+#dice{
+    margin-top: 28px;
+    font-size: 500%;
+    text-align: center;
+}
+button{
+    margin-top: 20px;
+}
